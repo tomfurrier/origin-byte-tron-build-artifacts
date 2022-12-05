@@ -57,3 +57,5 @@
 
 #artifacts
 *.br
+*.data.br
+*.wasm.br
