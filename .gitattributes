@@ -47,3 +47,7 @@
 *.lxo filter=lfs diff=lfs merge=lfs -text
 #artifacts
 *.br filter=lfs diff=lfs merge=lfs -text
+*.data filter=lfs diff=lfs merge=lfs -text
+*.framework.js filter=lfs diff=lfs merge=lfs -text
+*.loader.js filter=lfs diff=lfs merge=lfs -text
+*.wasm filter=lfs diff=lfs merge=lfs -text
